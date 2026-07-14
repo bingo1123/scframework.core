@@ -1,0 +1,21 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace  YS.Yuanji.Commom
+{
+    public enum DLMachineTypeEnum
+    {
+        Huani,
+
+        FxsZB48,
+
+        ZB48A,
+
+        OpcUa,
+
+        Omron,
+    }
+}

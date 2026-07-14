@@ -1,0 +1,128 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\\u5DE5\u4F5C\\\u8FDC\u8222\u667A\u80FD\\\u9879\u76EE\\\u66F2\u9756\\10-\u539F\u673A\u6570\u636E\u91C7\u96C6-\u975E\u6807\u534F\u8BAE\\YSDL.WPF\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5E6FFE50-3C35-4DD5-8A50-BA1F805B2C81}|..\\YS.Yuanji.WPF\\YS.Yuanji.WPF.csproj|f:\\\u5DE5\u4F5C\\\u8FDC\u8222\u667A\u80FD\\\u9879\u76EE\\\u66F2\u9756\\10-\u539F\u673A\u6570\u636E\u91C7\u96C6-\u975E\u6807\u534F\u8BAE\\ys.yuanji.wpf\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34F2F3CA-59C1-47CC-9D79-E97B06292985}|..\\YS.ShareFile.Picture\\YS.ShareFile.Picture.csproj|f:\\\u5DE5\u4F5C\\\u8FDC\u8222\u667A\u80FD\\\u9879\u76EE\\\u66F2\u9756\\10-\u539F\u673A\u6570\u636E\u91C7\u96C6-\u975E\u6807\u534F\u8BAE\\ys.sharefile.picture\\picturecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34F2F3CA-59C1-47CC-9D79-E97B06292985}|..\\YS.ShareFile.Picture\\YS.ShareFile.Picture.csproj|f:\\\u5DE5\u4F5C\\\u8FDC\u8222\u667A\u80FD\\\u9879\u76EE\\\u66F2\u9756\\10-\u539F\u673A\u6570\u636E\u91C7\u96C6-\u975E\u6807\u534F\u8BAE\\ys.sharefile.picture\\filesearcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23ED4DE2-6F76-43F9-BF15-075FC6A8C9DB}|..\\YS.Yuanji.Start\\YS.Yuanji.Start.csproj|f:\\\u5DE5\u4F5C\\\u8FDC\u8222\u667A\u80FD\\\u9879\u76EE\\\u66F2\u9756\\10-\u539F\u673A\u6570\u636E\u91C7\u96C6-\u975E\u6807\u534F\u8BAE\\ys.yuanji.start\\dataconfig.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23ED4DE2-6F76-43F9-BF15-075FC6A8C9DB}|..\\YS.Yuanji.Start\\YS.Yuanji.Start.csproj|f:\\\u5DE5\u4F5C\\\u8FDC\u8222\u667A\u80FD\\\u9879\u76EE\\\u66F2\u9756\\10-\u539F\u673A\u6570\u636E\u91C7\u96C6-\u975E\u6807\u534F\u8BAE\\ys.yuanji.start\\basicconfig.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindowViewModel.cs",
+              "DocumentMoniker": "F:\\\u5DE5\u4F5C\\\u8FDC\u8222\u667A\u80FD\\\u9879\u76EE\\\u66F2\u9756\\10-\u539F\u673A\u6570\u636E\u91C7\u96C6-\u975E\u6807\u534F\u8BAE\\YS.Yuanji.WPF\\MainWindowViewModel.cs",
+              "RelativeDocumentMoniker": "..\\YS.Yuanji.WPF\\MainWindowViewModel.cs",
+              "ToolTip": "F:\\\u5DE5\u4F5C\\\u8FDC\u8222\u667A\u80FD\\\u9879\u76EE\\\u66F2\u9756\\10-\u539F\u673A\u6570\u636E\u91C7\u96C6-\u975E\u6807\u534F\u8BAE\\YS.Yuanji.WPF\\MainWindowViewModel.cs",
+              "RelativeToolTip": "..\\YS.Yuanji.WPF\\MainWindowViewModel.cs",
+              "ViewState": "AgIAACwBAAAAAAAAAAAIwLsAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T03:04:46.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "dataconfig.json",
+              "DocumentMoniker": "F:\\\u5DE5\u4F5C\\\u8FDC\u8222\u667A\u80FD\\\u9879\u76EE\\\u66F2\u9756\\10-\u539F\u673A\u6570\u636E\u91C7\u96C6-\u975E\u6807\u534F\u8BAE\\YS.Yuanji.Start\\dataconfig.json",
+              "RelativeDocumentMoniker": "..\\YS.Yuanji.Start\\dataconfig.json",
+              "ToolTip": "F:\\\u5DE5\u4F5C\\\u8FDC\u8222\u667A\u80FD\\\u9879\u76EE\\\u66F2\u9756\\10-\u539F\u673A\u6570\u636E\u91C7\u96C6-\u975E\u6807\u534F\u8BAE\\YS.Yuanji.Start\\dataconfig.json",
+              "RelativeToolTip": "..\\YS.Yuanji.Start\\dataconfig.json",
+              "ViewState": "AgIAAHoAAAAAAAAAAAAAAIIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-11T03:01:10.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FileSearcher.cs",
+              "DocumentMoniker": "F:\\\u5DE5\u4F5C\\\u8FDC\u8222\u667A\u80FD\\\u9879\u76EE\\\u66F2\u9756\\10-\u539F\u673A\u6570\u636E\u91C7\u96C6-\u975E\u6807\u534F\u8BAE\\YS.ShareFile.Picture\\FileSearcher.cs",
+              "RelativeDocumentMoniker": "..\\YS.ShareFile.Picture\\FileSearcher.cs",
+              "ToolTip": "F:\\\u5DE5\u4F5C\\\u8FDC\u8222\u667A\u80FD\\\u9879\u76EE\\\u66F2\u9756\\10-\u539F\u673A\u6570\u636E\u91C7\u96C6-\u975E\u6807\u534F\u8BAE\\YS.ShareFile.Picture\\FileSearcher.cs",
+              "RelativeToolTip": "..\\YS.ShareFile.Picture\\FileSearcher.cs",
+              "ViewState": "AgIAAFABAAAAAAAAAAArwIABAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T13:21:21.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "basicconfig.json",
+              "DocumentMoniker": "F:\\\u5DE5\u4F5C\\\u8FDC\u8222\u667A\u80FD\\\u9879\u76EE\\\u66F2\u9756\\10-\u539F\u673A\u6570\u636E\u91C7\u96C6-\u975E\u6807\u534F\u8BAE\\YS.Yuanji.Start\\basicconfig.json",
+              "RelativeDocumentMoniker": "..\\YS.Yuanji.Start\\basicconfig.json",
+              "ToolTip": "F:\\\u5DE5\u4F5C\\\u8FDC\u8222\u667A\u80FD\\\u9879\u76EE\\\u66F2\u9756\\10-\u539F\u673A\u6570\u636E\u91C7\u96C6-\u975E\u6807\u534F\u8BAE\\YS.Yuanji.Start\\basicconfig.json",
+              "RelativeToolTip": "..\\YS.Yuanji.Start\\basicconfig.json",
+              "ViewState": "AgIAABABAAAAAAAAAAAAACoBAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-07T01:14:27.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PictureController.cs",
+              "DocumentMoniker": "F:\\\u5DE5\u4F5C\\\u8FDC\u8222\u667A\u80FD\\\u9879\u76EE\\\u66F2\u9756\\10-\u539F\u673A\u6570\u636E\u91C7\u96C6-\u975E\u6807\u534F\u8BAE\\YS.ShareFile.Picture\\PictureController.cs",
+              "RelativeDocumentMoniker": "..\\YS.ShareFile.Picture\\PictureController.cs",
+              "ToolTip": "F:\\\u5DE5\u4F5C\\\u8FDC\u8222\u667A\u80FD\\\u9879\u76EE\\\u66F2\u9756\\10-\u539F\u673A\u6570\u636E\u91C7\u96C6-\u975E\u6807\u534F\u8BAE\\YS.ShareFile.Picture\\PictureController.cs",
+              "RelativeToolTip": "..\\YS.ShareFile.Picture\\PictureController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAADwvxkAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T12:39:42.31Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

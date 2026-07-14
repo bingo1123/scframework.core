@@ -1,0 +1,69 @@
+{
+  "Basic": {
+    "ServerRoot": "http://172.17.39.31:8183",
+    "TerminalCode": "JJ201",
+    "Program": "SHmode"
+  },
+  "Points": [
+    {
+      "Name": "FloatMoisture",
+      "Description": "当前浮点水份值",
+      "RegisterType": "HoldingRegister",
+      "Address": 0,
+      "DataType": "Float",
+      "Unit": "%"
+    },
+    {
+      "Name": "Sensitivity",
+      "Description": "灵敏度",
+      "RegisterType": "HoldingRegister",
+      "Address": 2,
+      "DataType": "Float",
+      "Unit": "MPa"
+    },
+    {
+      "Name": "Translation",
+      "Description": "平移量",
+      "RegisterType": "HoldingRegister",
+      "Address": 4,
+      "DataType": "Float"
+    },
+    {
+      "Name": "IntMoisture",
+      "Description": "当前整型水份值",
+      "RegisterType": "HoldingRegister",
+      "Address": 100,
+      "DataType": "Int16",
+      "Unit": "%"
+    },
+    {
+      "Name": "MeasureChannel",
+      "Description": "测量通道",
+      "RegisterType": "HoldingRegister",
+      "Address": 101,
+      "DataType": "UInt16"
+    },
+    {
+      "Name": "AvgMoisture",
+      "Description": "平均值",
+      "RegisterType": "HoldingRegister",
+      "Address": 102,
+      "DataType": "UInt16"
+    },
+    {
+      "Name": "MaxMoisture",
+      "Description": "最大值",
+      "RegisterType": "HoldingRegister",
+      "Address": 103,
+      "DataType": "UInt16",
+      "Unit": "%"
+    },
+    {
+      "Name": "MinMoisture",
+      "Description": "最小值",
+      "RegisterType": "HoldingRegister",
+      "Address": 104,
+      "DataType": "UInt16"
+    }
+  ]
+}

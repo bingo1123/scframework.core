@@ -1,0 +1,45 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="BOBME_PARAMS.LST" />
+    <None Remove="M5_PARAMS.LST" />
+    <None Remove="P18_PARAMS.LST" />
+    <None Remove="ZJ116_PARAMS.LST" />
+    <None Remove="ZJ119_PARAMS.LST" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="BOBME_PARAMS.LST">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Content>
+    <Content Include="M5_PARAMS.LST">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Content>
+    <Content Include="P18_PARAMS.LST">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Content>
+    <Content Include="ZJ119_PARAMS.LST">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="CommunityToolkit.Mvvm" Version="8.3.2" />
+    <PackageReference Include="MaterialDesignThemes" Version="5.1.0" />
+    <PackageReference Include="PropertyChanged.Fody" Version="4.1.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\YSDL.Start\YSDL.Start.csproj" />
+    <ProjectReference Include="..\YSDL\YSDL.csproj" />
+  </ItemGroup>
+
+</Project>

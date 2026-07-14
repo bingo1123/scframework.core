@@ -1,0 +1,15 @@
+{
+  "Mqtt": {
+    "Server": "10.97.65.20",
+    "Port": 1883,
+    "ClientId": "YS.Yuanji.WPF.Client",
+    "Username": "fine",
+    "Password": "123456"
+  },
+  "MachineNumbers": [
+    "JJ_Z12",
+    "JJ_T3",
+    "JJ_T6",
+    "JJ_T15"
+  ]
+}

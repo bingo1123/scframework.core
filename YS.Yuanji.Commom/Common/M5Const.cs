@@ -1,0 +1,187 @@
+﻿
+
+namespace  YS.Yuanji.Commom
+{
+    public class M5Const
+    {
+        public readonly static string[] ProductData = new string[]
+        {
+            "ShiftData.ShiftNo",
+            "ShiftData.ShiftStart",
+            "ShiftData.RunTime",
+            "ShiftData.StopTime",
+            "ShiftData.Stop.Cnt",
+            "ShiftData.EffMachineT",
+            "ShiftData.EffProductionT",
+            "ShiftData.EffMachineP",
+            "ShiftData.EffProductionP",
+            "ShiftData.Waste.Total.Cnt",
+            "ShiftData.Waste.Total.Pct",
+            "ShiftData.Production.Total.Cnt",
+            "ShiftData.QBC.TobaccoUsed",
+            "ShiftData.QBC.FilterSheetsUsed",
+
+            "ShiftData.QBC.MaxUsedBobbins",
+
+            "ShiftData.QBC.SeUsedBobbins"
+            //"ShiftData.QBC.FilterPlugs",
+        };
+
+        public readonly static string[] RejectData = new string[]
+        {
+            "ShiftData.Waste.LightWeight.Front.Cnt",
+            "ShiftData.Waste.LightWeight.Rear.Cnt",
+
+            "ShiftData.Waste.HeavyWeight.Front.Cnt",
+            "ShiftData.Waste.HeavyWeight.Rear.Cnt",
+
+            "ShiftData.Waste.HardSpot.Front.Cnt",
+            "ShiftData.Waste.HardSpot.Rear.Cnt",
+
+            "ShiftData.Waste.SoftSpot.Front.Cnt",
+            "ShiftData.Waste.SoftSpot.Rear.Cnt",
+
+            "ShiftData.Waste.LightEnds.Front.Cnt",
+            "ShiftData.Waste.LightEnds.Rear.Cnt",
+
+            "ShiftData.Waste.Airtightness.Front.Cnt",
+            "ShiftData.Waste.Airtightness.Rear.Cnt",
+
+            "ShiftData.Waste.TotalVentilation.Front.Cnt",
+            "ShiftData.Waste.TotalVentilation.Rear.Cnt",
+
+            "ShiftData.Waste.PressureDrop.Front.Cnt",
+            "ShiftData.Waste.PressureDrop.Rear.Cnt",
+
+            "ShiftData.Waste.FilterFault.Front.Cnt",
+            "ShiftData.Waste.FilterFault.Rear.Cnt",
+
+            "ShiftData.Waste.CigaretteShape.Front.Cnt",
+            "ShiftData.Waste.CigaretteShape.Rear.Cnt",
+
+            "ShiftData.Waste.CigPaperSplice.Total.Cnt",
+            "ShiftData.Waste.TippingSplice.Total.Cnt",
+            "ShiftData.Waste.MissingFilter.Total.Cnt",
+            //"ShiftData.Waste.NoGlue.Total.Cnt",
+            //"ShiftData.Waste.Tipping.Total.Cnt",
+            "ShiftData.Waste.PaperCut.Total.Cnt",
+
+            //"ShiftData.Waste.GlueTippingPaper.Front.Cnt",
+            //"ShiftData.Waste.GlueTippingPaper.Rear.Cnt",
+        };
+
+        public readonly static string[] TotalShiftDataArray = new string[]
+        {
+             "ShiftData.ShiftNo",
+             "ShiftData.Date",
+             "ShiftData.BrandName",
+             "ShiftData.MachineName",
+             "ShiftData.ShiftStart",
+             "ShiftData.ShiftTime",
+             "ShiftData.BreakTime",
+             "ShiftData.RunTime",
+             "ShiftData.StopTime",
+             "ShiftData.Stop.Cnt",
+             "ShiftData.EffMachineT",
+             "ShiftData.EffProductionT",
+             "ShiftData.EffMachineP",
+             "ShiftData.EffProductionP",
+             "ShiftData.Production.Total.Cnt",
+             "ShiftData.Quality.CigWeight.Avg.Front",
+             "ShiftData.Quality.CigWeight.Avg.Rear",
+             "ShiftData.Quality.CigWeight.ShortStdDev.Front",//ShiftData.Quality.CigWeight.ShortStdDev.Front
+             "ShiftData.Quality.CigWeight.ShortStdDev.Rear",
+             "ShiftData.Quality.CigWeight.LongStdDev.Front",
+             "ShiftData.Quality.CigWeight.LongStdDev.Rear",
+             "ShiftData.Quality.Diameter.Avg.Front",
+             "ShiftData.Quality.Diameter.Avg.Rear",
+             "ShiftData.Quality.Diameter.ShortStdDev.Front",
+             "ShiftData.Quality.Diameter.ShortStdDev.Rear",
+             "ShiftData.Quality.Ventilation.Avg.Front",
+             "ShiftData.Quality.Ventilation.Avg.Rear",
+             "ShiftData.Quality.Ventilation.ShortStdDev.Front",
+             "ShiftData.Quality.Ventilation.ShortStdDev.Rear",
+             "ShiftData.Quality.PressureDrop.Avg.Front",
+             "ShiftData.Quality.PressureDrop.Avg.Rear",
+             "ShiftData.Quality.PressureDrop.ShortStdDev.Front",
+             "ShiftData.Quality.PressureDrop.ShortStdDev.Rear",
+             "ShiftData.Quality.Moisture.Avg",
+             "ShiftData.Quality.DensedEndPos.Avg.Front",
+             "ShiftData.Quality.DensedEndPos.Avg.Rear",
+             "ShiftData.Quality.DensedEndPos.ShortStdDev.Front",
+             "ShiftData.Quality.DensedEndPos.ShortStdDev.Rear",
+             "ShiftData.Waste.Total.Cnt",
+             "ShiftData.Waste.Total.Pct",
+             "ShiftData.Waste.LightWeight.Front.Cnt",
+             "ShiftData.Waste.LightWeight.Rear.Cnt",
+             "ShiftData.Waste.LightWeight.Front.Pct",
+             "ShiftData.Waste.LightWeight.Rear.Pct",
+             "ShiftData.Waste.HeavyWeight.Front.Cnt",
+             "ShiftData.Waste.HeavyWeight.Rear.Cnt",
+             "ShiftData.Waste.HeavyWeight.Front.Pct",
+             "ShiftData.Waste.HeavyWeight.Rear.Pct",
+             "ShiftData.Waste.HardSpot.Front.Cnt",
+             "ShiftData.Waste.HardSpot.Rear.Cnt",
+             "ShiftData.Waste.HardSpot.Front.Pct",
+             "ShiftData.Waste.HardSpot.Rear.Pct",
+             "ShiftData.Waste.SoftSpot.Front.Cnt",
+             "ShiftData.Waste.SoftSpot.Rear.Cnt",
+             "ShiftData.Waste.SoftSpot.Front.Pct",
+             "ShiftData.Waste.SoftSpot.Rear.Pct",
+             "ShiftData.Waste.LightEnds.Front.Cnt",
+             "ShiftData.Waste.LightEnds.Rear.Cnt",
+             "ShiftData.Waste.LightEnds.Front.Pct",
+             "ShiftData.Waste.LightEnds.Rear.Pct",
+             "ShiftData.Waste.Airtightness.Front.Cnt",
+             "ShiftData.Waste.Airtightness.Rear.Cnt",
+             "ShiftData.Waste.Airtightness.Front.Pct",
+             "ShiftData.Waste.Airtightness.Rear.Pct",
+             "ShiftData.Waste.AirtightnessReverse.Front.Cnt",
+             "ShiftData.Waste.AirtightnessReverse.Rear.Cnt",
+             "ShiftData.Waste.AirtightnessReverse.Front.Pct",
+             "ShiftData.Waste.AirtightnessReverse.Rear.Pct",
+             "ShiftData.Waste.TotalVentilation.Front.Cnt",
+             "ShiftData.Waste.TotalVentilation.Rear.Cnt",
+             "ShiftData.Waste.TotalVentilation.Front.Pct",
+             "ShiftData.Waste.TotalVentilation.Rear.Pct",
+             "ShiftData.Waste.PressureDrop.Front.Cnt",
+             "ShiftData.Waste.PressureDrop.Rear.Cnt",
+             "ShiftData.Waste.PressureDrop.Front.Pct",
+             "ShiftData.Waste.PressureDrop.Rear.Pct",
+             "ShiftData.Waste.EndDensity.Front.Cnt",
+             "ShiftData.Waste.EndDensity.Rear.Cnt",
+             "ShiftData.Waste.EndDensity.Front.Pct",
+             "ShiftData.Waste.EndDensity.Rear.Pct",
+             "ShiftData.Waste.EndDensityPlain.Front.Cnt",
+             "ShiftData.Waste.EndDensityPlain.Rear.Cnt",
+             "ShiftData.Waste.EndDensityPlain.Front.Pct",
+             "ShiftData.Waste.EndDensityPlain.Rear.Pct",
+             "ShiftData.Waste.CigaretteShape.Front.Cnt",
+             "ShiftData.Waste.CigaretteShape.Rear.Cnt",
+             "ShiftData.Waste.CigaretteShape.Front.Pct",
+             "ShiftData.Waste.CigaretteShape.Rear.Pct",
+             "ShiftData.Waste.FilterFault.Front.Cnt",
+             "ShiftData.Waste.FilterFault.Rear.Cnt",
+             "ShiftData.Waste.FilterFault.Front.Pct",
+             "ShiftData.Waste.FilterFault.Rear.Pct",
+             "ShiftData.Waste.CigPaperSplice.Total.Cnt",
+             "ShiftData.Waste.TippingSplice.Total.Cnt",
+             "ShiftData.Waste.Metal.Total.Cnt",
+             "ShiftData.Waste.MissingFilter.Total.Cnt",
+             "ShiftData.Waste.PaperCut.Total.Cnt",
+             "ShiftData.Waste.PaperCut.Total.Pct",
+             "ShiftData.Waste.DensedEndPos.Total.Cnt",
+             "ShiftData.Waste.DensedEndPos.Total.Pct",
+             "ShiftData.QBC.NumberOfTobaccoCalls",
+             "ShiftData.QBC.TobaccoUsed",
+             "ShiftData.QBC.FilterSheetsUsed",
+             "ShiftData.QBC.SeProduction",
+             "ShiftData.QBC.MaxUsedBobbins",
+             "ShiftData.QBC.SeUsedBobbins",
+             "ShiftData.QBC.SePaperTransport",
+             "ShiftData.QBC.SeTobaccoTransport",
+             "ShiftData.QBC.FilterPlugs"
+        };
+
+    }
+}

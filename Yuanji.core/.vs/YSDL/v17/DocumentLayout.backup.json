@@ -1,0 +1,403 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u5927\u7406\u4EA4\u63A5\\YSDL.2025.01.10\\YSDL\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CDF563AD-B165-4586-B1CB-2C12EE0D030A}|YSDL.csproj|d:\\\u5927\u7406\u4EA4\u63A5\\ysdl.2025.01.10\\ysdl\\src\\mqtt\\helper\\mqttconst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDF563AD-B165-4586-B1CB-2C12EE0D030A}|YSDL.csproj|solutionrelative:src\\mqtt\\helper\\mqttconst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDF563AD-B165-4586-B1CB-2C12EE0D030A}|YSDL.csproj|d:\\\u5927\u7406\u4EA4\u63A5\\ysdl.2025.01.10\\ysdl\\src\\common\\bobmeconst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDF563AD-B165-4586-B1CB-2C12EE0D030A}|YSDL.csproj|solutionrelative:src\\common\\bobmeconst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDF563AD-B165-4586-B1CB-2C12EE0D030A}|YSDL.csproj|d:\\\u5927\u7406\u4EA4\u63A5\\ysdl.2025.01.10\\ysdl\\src\\common\\controllerconst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDF563AD-B165-4586-B1CB-2C12EE0D030A}|YSDL.csproj|solutionrelative:src\\common\\controllerconst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDF563AD-B165-4586-B1CB-2C12EE0D030A}|YSDL.csproj|d:\\\u5927\u7406\u4EA4\u63A5\\ysdl.2025.01.10\\ysdl\\src\\common\\dlmachinetypeenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDF563AD-B165-4586-B1CB-2C12EE0D030A}|YSDL.csproj|solutionrelative:src\\common\\dlmachinetypeenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDF563AD-B165-4586-B1CB-2C12EE0D030A}|YSDL.csproj|d:\\\u5927\u7406\u4EA4\u63A5\\ysdl.2025.01.10\\ysdl\\src\\common\\fxszb48const.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDF563AD-B165-4586-B1CB-2C12EE0D030A}|YSDL.csproj|solutionrelative:src\\common\\fxszb48const.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDF563AD-B165-4586-B1CB-2C12EE0D030A}|YSDL.csproj|d:\\\u5927\u7406\u4EA4\u63A5\\ysdl.2025.01.10\\ysdl\\src\\common\\m5const.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDF563AD-B165-4586-B1CB-2C12EE0D030A}|YSDL.csproj|solutionrelative:src\\common\\m5const.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDF563AD-B165-4586-B1CB-2C12EE0D030A}|YSDL.csproj|d:\\\u5927\u7406\u4EA4\u63A5\\ysdl.2025.01.10\\ysdl\\src\\mqtt\\cigaretteproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDF563AD-B165-4586-B1CB-2C12EE0D030A}|YSDL.csproj|solutionrelative:src\\mqtt\\cigaretteproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDF563AD-B165-4586-B1CB-2C12EE0D030A}|YSDL.csproj|d:\\\u5927\u7406\u4EA4\u63A5\\ysdl.2025.01.10\\ysdl\\src\\zb48acontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDF563AD-B165-4586-B1CB-2C12EE0D030A}|YSDL.csproj|solutionrelative:src\\zb48acontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08135384-4E30-4547-8F56-360A3B32455B}|..\\YSDL.WPF\\YSDL.WPF.csproj|d:\\\u5927\u7406\u4EA4\u63A5\\ysdl.2025.01.10\\ysdl.wpf\\viewmodel\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDF563AD-B165-4586-B1CB-2C12EE0D030A}|YSDL.csproj|d:\\\u5927\u7406\u4EA4\u63A5\\ysdl.2025.01.10\\ysdl\\src\\driver\\zb48a\\apiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDF563AD-B165-4586-B1CB-2C12EE0D030A}|YSDL.csproj|solutionrelative:src\\driver\\zb48a\\apiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDF563AD-B165-4586-B1CB-2C12EE0D030A}|YSDL.csproj|d:\\\u5927\u7406\u4EA4\u63A5\\ysdl.2025.01.10\\ysdl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDF563AD-B165-4586-B1CB-2C12EE0D030A}|YSDL.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08135384-4E30-4547-8F56-360A3B32455B}|..\\YSDL.WPF\\YSDL.WPF.csproj|d:\\\u5927\u7406\u4EA4\u63A5\\ysdl.2025.01.10\\ysdl.wpf\\view\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08135384-4E30-4547-8F56-360A3B32455B}|..\\YSDL.WPF\\YSDL.WPF.csproj|d:\\\u5927\u7406\u4EA4\u63A5\\ysdl.2025.01.10\\ysdl.wpf\\view\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDF563AD-B165-4586-B1CB-2C12EE0D030A}|YSDL.csproj|d:\\\u5927\u7406\u4EA4\u63A5\\ysdl.2025.01.10\\ysdl\\src\\fxszb48controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDF563AD-B165-4586-B1CB-2C12EE0D030A}|YSDL.csproj|solutionrelative:src\\fxszb48controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDF563AD-B165-4586-B1CB-2C12EE0D030A}|YSDL.csproj|d:\\\u5927\u7406\u4EA4\u63A5\\ysdl.2025.01.10\\ysdl\\src\\datacollectcontoller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDF563AD-B165-4586-B1CB-2C12EE0D030A}|YSDL.csproj|solutionrelative:src\\datacollectcontoller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDF563AD-B165-4586-B1CB-2C12EE0D030A}|YSDL.csproj|d:\\\u5927\u7406\u4EA4\u63A5\\ysdl.2025.01.10\\ysdl\\src\\mqtt\\mqttcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDF563AD-B165-4586-B1CB-2C12EE0D030A}|YSDL.csproj|solutionrelative:src\\mqtt\\mqttcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDF563AD-B165-4586-B1CB-2C12EE0D030A}|YSDL.csproj|d:\\\u5927\u7406\u4EA4\u63A5\\ysdl.2025.01.10\\ysdl\\src\\driver\\huani\\controller\\huanicommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDF563AD-B165-4586-B1CB-2C12EE0D030A}|YSDL.csproj|solutionrelative:src\\driver\\huani\\controller\\huanicommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDF563AD-B165-4586-B1CB-2C12EE0D030A}|YSDL.csproj|d:\\\u5927\u7406\u4EA4\u63A5\\ysdl.2025.01.10\\ysdl\\src\\m5contoller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDF563AD-B165-4586-B1CB-2C12EE0D030A}|YSDL.csproj|solutionrelative:src\\m5contoller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDF563AD-B165-4586-B1CB-2C12EE0D030A}|YSDL.csproj|d:\\\u5927\u7406\u4EA4\u63A5\\ysdl.2025.01.10\\ysdl\\src\\p18controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDF563AD-B165-4586-B1CB-2C12EE0D030A}|YSDL.csproj|solutionrelative:src\\p18controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDF563AD-B165-4586-B1CB-2C12EE0D030A}|YSDL.csproj|d:\\\u5927\u7406\u4EA4\u63A5\\ysdl.2025.01.10\\ysdl\\src\\driver\\huani\\controller\\visucommuniaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDF563AD-B165-4586-B1CB-2C12EE0D030A}|YSDL.csproj|solutionrelative:src\\driver\\huani\\controller\\visucommuniaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDF563AD-B165-4586-B1CB-2C12EE0D030A}|YSDL.csproj|d:\\\u5927\u7406\u4EA4\u63A5\\ysdl.2025.01.10\\ysdl\\src\\driver\\huani\\controller\\hunicommunication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDF563AD-B165-4586-B1CB-2C12EE0D030A}|YSDL.csproj|solutionrelative:src\\driver\\huani\\controller\\hunicommunication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDF563AD-B165-4586-B1CB-2C12EE0D030A}|YSDL.csproj|d:\\\u5927\u7406\u4EA4\u63A5\\ysdl.2025.01.10\\ysdl\\src\\driver\\huani\\controller\\huanicommandenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDF563AD-B165-4586-B1CB-2C12EE0D030A}|YSDL.csproj|solutionrelative:src\\driver\\huani\\controller\\huanicommandenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDF563AD-B165-4586-B1CB-2C12EE0D030A}|YSDL.csproj|d:\\\u5927\u7406\u4EA4\u63A5\\ysdl.2025.01.10\\ysdl\\src\\driver\\huani\\controller\\symbadrenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDF563AD-B165-4586-B1CB-2C12EE0D030A}|YSDL.csproj|solutionrelative:src\\driver\\huani\\controller\\symbadrenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MqttConst.cs",
+              "DocumentMoniker": "D:\\\u5927\u7406\u4EA4\u63A5\\YSDL.2025.01.10\\YSDL\\src\\MQTT\\helper\\MqttConst.cs",
+              "RelativeDocumentMoniker": "src\\MQTT\\helper\\MqttConst.cs",
+              "ToolTip": "D:\\\u5927\u7406\u4EA4\u63A5\\YSDL.2025.01.10\\YSDL\\src\\MQTT\\helper\\MqttConst.cs",
+              "RelativeToolTip": "src\\MQTT\\helper\\MqttConst.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T08:26:24.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BoBMeConst.cs",
+              "DocumentMoniker": "D:\\\u5927\u7406\u4EA4\u63A5\\YSDL.2025.01.10\\YSDL\\src\\Common\\BoBMeConst.cs",
+              "RelativeDocumentMoniker": "src\\Common\\BoBMeConst.cs",
+              "ToolTip": "D:\\\u5927\u7406\u4EA4\u63A5\\YSDL.2025.01.10\\YSDL\\src\\Common\\BoBMeConst.cs",
+              "RelativeToolTip": "src\\Common\\BoBMeConst.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T08:26:20.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ControllerConst.cs",
+              "DocumentMoniker": "D:\\\u5927\u7406\u4EA4\u63A5\\YSDL.2025.01.10\\YSDL\\src\\Common\\ControllerConst.cs",
+              "RelativeDocumentMoniker": "src\\Common\\ControllerConst.cs",
+              "ToolTip": "D:\\\u5927\u7406\u4EA4\u63A5\\YSDL.2025.01.10\\YSDL\\src\\Common\\ControllerConst.cs",
+              "RelativeToolTip": "src\\Common\\ControllerConst.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T08:26:18.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DLMachineTypeEnum.cs",
+              "DocumentMoniker": "D:\\\u5927\u7406\u4EA4\u63A5\\YSDL.2025.01.10\\YSDL\\src\\Common\\DLMachineTypeEnum.cs",
+              "RelativeDocumentMoniker": "src\\Common\\DLMachineTypeEnum.cs",
+              "ToolTip": "D:\\\u5927\u7406\u4EA4\u63A5\\YSDL.2025.01.10\\YSDL\\src\\Common\\DLMachineTypeEnum.cs",
+              "RelativeToolTip": "src\\Common\\DLMachineTypeEnum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T08:26:17.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FxsZB48Const.cs",
+              "DocumentMoniker": "D:\\\u5927\u7406\u4EA4\u63A5\\YSDL.2025.01.10\\YSDL\\src\\Common\\FxsZB48Const.cs",
+              "RelativeDocumentMoniker": "src\\Common\\FxsZB48Const.cs",
+              "ToolTip": "D:\\\u5927\u7406\u4EA4\u63A5\\YSDL.2025.01.10\\YSDL\\src\\Common\\FxsZB48Const.cs",
+              "RelativeToolTip": "src\\Common\\FxsZB48Const.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T08:26:16.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "M5Const.cs",
+              "DocumentMoniker": "D:\\\u5927\u7406\u4EA4\u63A5\\YSDL.2025.01.10\\YSDL\\src\\Common\\M5Const.cs",
+              "RelativeDocumentMoniker": "src\\Common\\M5Const.cs",
+              "ToolTip": "D:\\\u5927\u7406\u4EA4\u63A5\\YSDL.2025.01.10\\YSDL\\src\\Common\\M5Const.cs",
+              "RelativeToolTip": "src\\Common\\M5Const.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T08:26:15.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CigaretteProductDto.cs",
+              "DocumentMoniker": "D:\\\u5927\u7406\u4EA4\u63A5\\YSDL.2025.01.10\\YSDL\\src\\MQTT\\CigaretteProductDto.cs",
+              "RelativeDocumentMoniker": "src\\MQTT\\CigaretteProductDto.cs",
+              "ToolTip": "D:\\\u5927\u7406\u4EA4\u63A5\\YSDL.2025.01.10\\YSDL\\src\\MQTT\\CigaretteProductDto.cs",
+              "RelativeToolTip": "src\\MQTT\\CigaretteProductDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T08:26:07.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ApiClient.cs",
+              "DocumentMoniker": "D:\\\u5927\u7406\u4EA4\u63A5\\YSDL.2025.01.10\\YSDL\\src\\Driver\\ZB48A\\ApiClient.cs",
+              "RelativeDocumentMoniker": "src\\Driver\\ZB48A\\ApiClient.cs",
+              "ToolTip": "D:\\\u5927\u7406\u4EA4\u63A5\\YSDL.2025.01.10\\YSDL\\src\\Driver\\ZB48A\\ApiClient.cs",
+              "RelativeToolTip": "src\\Driver\\ZB48A\\ApiClient.cs",
+              "ViewState": "AgIAAJgAAAAAAAAAAAAqwK8AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T14:28:19.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\\u5927\u7406\u4EA4\u63A5\\YSDL.2025.01.10\\YSDL.WPF\\View\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "..\\YSDL.WPF\\View\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\\u5927\u7406\u4EA4\u63A5\\YSDL.2025.01.10\\YSDL.WPF\\View\\MainWindow.xaml.cs",
+              "RelativeToolTip": "..\\YSDL.WPF\\View\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T14:26:30.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\\u5927\u7406\u4EA4\u63A5\\YSDL.2025.01.10\\YSDL.WPF\\View\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "..\\YSDL.WPF\\View\\MainWindow.xaml",
+              "ToolTip": "D:\\\u5927\u7406\u4EA4\u63A5\\YSDL.2025.01.10\\YSDL.WPF\\View\\MainWindow.xaml",
+              "RelativeToolTip": "..\\YSDL.WPF\\View\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-22T14:23:21.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DataCollectContoller.cs",
+              "DocumentMoniker": "D:\\\u5927\u7406\u4EA4\u63A5\\YSDL.2025.01.10\\YSDL\\src\\DataCollectContoller.cs",
+              "RelativeDocumentMoniker": "src\\DataCollectContoller.cs",
+              "ToolTip": "D:\\\u5927\u7406\u4EA4\u63A5\\YSDL.2025.01.10\\YSDL\\src\\DataCollectContoller.cs",
+              "RelativeToolTip": "src\\DataCollectContoller.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAqwEAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T13:31:48.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FxsZB48Controller.cs",
+              "DocumentMoniker": "D:\\\u5927\u7406\u4EA4\u63A5\\YSDL.2025.01.10\\YSDL\\src\\FxsZB48Controller.cs",
+              "RelativeDocumentMoniker": "src\\FxsZB48Controller.cs",
+              "ToolTip": "D:\\\u5927\u7406\u4EA4\u63A5\\YSDL.2025.01.10\\YSDL\\src\\FxsZB48Controller.cs",
+              "RelativeToolTip": "src\\FxsZB48Controller.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAqwD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T13:10:16.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ZB48AController.cs",
+              "DocumentMoniker": "D:\\\u5927\u7406\u4EA4\u63A5\\YSDL.2025.01.10\\YSDL\\src\\ZB48AController.cs",
+              "RelativeDocumentMoniker": "src\\ZB48AController.cs",
+              "ToolTip": "D:\\\u5927\u7406\u4EA4\u63A5\\YSDL.2025.01.10\\YSDL\\src\\ZB48AController.cs",
+              "RelativeToolTip": "src\\ZB48AController.cs",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAqwHkAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T08:58:12.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "D:\\\u5927\u7406\u4EA4\u63A5\\YSDL.2025.01.10\\YSDL.WPF\\ViewModel\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "..\\YSDL.WPF\\ViewModel\\MainViewModel.cs",
+              "ToolTip": "D:\\\u5927\u7406\u4EA4\u63A5\\YSDL.2025.01.10\\YSDL.WPF\\ViewModel\\MainViewModel.cs",
+              "RelativeToolTip": "..\\YSDL.WPF\\ViewModel\\MainViewModel.cs",
+              "ViewState": "AgIAABUCAAAAAAAAAAAqwCsCAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T03:25:56.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u5927\u7406\u4EA4\u63A5\\YSDL.2025.01.10\\YSDL\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\\u5927\u7406\u4EA4\u63A5\\YSDL.2025.01.10\\YSDL\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAYwCAAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T03:52:19.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MqttController.cs",
+              "DocumentMoniker": "D:\\\u5927\u7406\u4EA4\u63A5\\YSDL.2025.01.10\\YSDL\\src\\MQTT\\MqttController.cs",
+              "RelativeDocumentMoniker": "src\\MQTT\\MqttController.cs",
+              "ToolTip": "D:\\\u5927\u7406\u4EA4\u63A5\\YSDL.2025.01.10\\YSDL\\src\\MQTT\\MqttController.cs",
+              "RelativeToolTip": "src\\MQTT\\MqttController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAiwDoAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T13:47:42.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "P18Controller.cs",
+              "DocumentMoniker": "D:\\\u5927\u7406\u4EA4\u63A5\\YSDL.2025.01.10\\YSDL\\src\\P18Controller.cs",
+              "RelativeDocumentMoniker": "src\\P18Controller.cs",
+              "ToolTip": "D:\\\u5927\u7406\u4EA4\u63A5\\YSDL.2025.01.10\\YSDL\\src\\P18Controller.cs",
+              "RelativeToolTip": "src\\P18Controller.cs",
+              "ViewState": "AgIAADIBAAAAAAAAAAAIwFwBAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T13:08:58.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "HuniCommunication.cs",
+              "DocumentMoniker": "D:\\\u5927\u7406\u4EA4\u63A5\\YSDL.2025.01.10\\YSDL\\src\\Driver\\Huani\\Controller\\HuniCommunication.cs",
+              "RelativeDocumentMoniker": "src\\Driver\\Huani\\Controller\\HuniCommunication.cs",
+              "ToolTip": "D:\\\u5927\u7406\u4EA4\u63A5\\YSDL.2025.01.10\\YSDL\\src\\Driver\\Huani\\Controller\\HuniCommunication.cs",
+              "RelativeToolTip": "src\\Driver\\Huani\\Controller\\HuniCommunication.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T08:30:02.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "HuaniCommandEnum.cs",
+              "DocumentMoniker": "D:\\\u5927\u7406\u4EA4\u63A5\\YSDL.2025.01.10\\YSDL\\src\\Driver\\Huani\\Controller\\HuaniCommandEnum.cs",
+              "RelativeDocumentMoniker": "src\\Driver\\Huani\\Controller\\HuaniCommandEnum.cs",
+              "ToolTip": "D:\\\u5927\u7406\u4EA4\u63A5\\YSDL.2025.01.10\\YSDL\\src\\Driver\\Huani\\Controller\\HuaniCommandEnum.cs",
+              "RelativeToolTip": "src\\Driver\\Huani\\Controller\\HuaniCommandEnum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T08:29:58.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "HuaniCommand.cs",
+              "DocumentMoniker": "D:\\\u5927\u7406\u4EA4\u63A5\\YSDL.2025.01.10\\YSDL\\src\\Driver\\Huani\\Controller\\HuaniCommand.cs",
+              "RelativeDocumentMoniker": "src\\Driver\\Huani\\Controller\\HuaniCommand.cs",
+              "ToolTip": "D:\\\u5927\u7406\u4EA4\u63A5\\YSDL.2025.01.10\\YSDL\\src\\Driver\\Huani\\Controller\\HuaniCommand.cs",
+              "RelativeToolTip": "src\\Driver\\Huani\\Controller\\HuaniCommand.cs",
+              "ViewState": "AgIAADEBAAAAAAAAAAAqwFoBAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T07:39:17.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "VisuCommuniaction.cs",
+              "DocumentMoniker": "D:\\\u5927\u7406\u4EA4\u63A5\\YSDL.2025.01.10\\YSDL\\src\\Driver\\Huani\\Controller\\VisuCommuniaction.cs",
+              "RelativeDocumentMoniker": "src\\Driver\\Huani\\Controller\\VisuCommuniaction.cs",
+              "ToolTip": "D:\\\u5927\u7406\u4EA4\u63A5\\YSDL.2025.01.10\\YSDL\\src\\Driver\\Huani\\Controller\\VisuCommuniaction.cs",
+              "RelativeToolTip": "src\\Driver\\Huani\\Controller\\VisuCommuniaction.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAIwGYAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T03:25:29.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "M5Contoller.cs",
+              "DocumentMoniker": "D:\\\u5927\u7406\u4EA4\u63A5\\YSDL.2025.01.10\\YSDL\\src\\M5Contoller.cs",
+              "RelativeDocumentMoniker": "src\\M5Contoller.cs",
+              "ToolTip": "D:\\\u5927\u7406\u4EA4\u63A5\\YSDL.2025.01.10\\YSDL\\src\\M5Contoller.cs",
+              "RelativeToolTip": "src\\M5Contoller.cs",
+              "ViewState": "AgIAAOEAAAAAAAAAAAAIwL8AAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T07:45:45.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "SymbAdrEnum.cs",
+              "DocumentMoniker": "D:\\\u5927\u7406\u4EA4\u63A5\\YSDL.2025.01.10\\YSDL\\src\\Driver\\Huani\\Controller\\SymbAdrEnum.cs",
+              "RelativeDocumentMoniker": "src\\Driver\\Huani\\Controller\\SymbAdrEnum.cs",
+              "ToolTip": "D:\\\u5927\u7406\u4EA4\u63A5\\YSDL.2025.01.10\\YSDL\\src\\Driver\\Huani\\Controller\\SymbAdrEnum.cs",
+              "RelativeToolTip": "src\\Driver\\Huani\\Controller\\SymbAdrEnum.cs",
+              "ViewState": "AgIAAIgAAAAAAAAAAAAkwJQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T08:04:48.207Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

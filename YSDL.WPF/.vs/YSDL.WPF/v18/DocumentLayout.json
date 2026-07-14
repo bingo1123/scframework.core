@@ -1,0 +1,199 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u8FDC\u8222\u667A\u80FD\\\u9879\u76EE\\\u66F2\u9756\\10-\u539F\u673A\u6570\u636E\u91C7\u96C6-\u975E\u6807\u534F\u8BAE\\YSDL.WPF\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1D1B0D5B-DA7C-4D54-9722-AEF63D1D10FB}|..\\YS.DataBase.Oracle\\YS.DataBase.Oracle.csproj|d:\\\u8FDC\u8222\u667A\u80FD\\\u9879\u76EE\\\u66F2\u9756\\10-\u539F\u673A\u6570\u636E\u91C7\u96C6-\u975E\u6807\u534F\u8BAE\\ys.database.oracle\\qjpackcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{862C4111-E640-4B78-A962-DC09FAC4F67E}|..\\YS.Yuanji.Mqtt\\YS.Yuanji.Mqtt.csproj|d:\\\u8FDC\u8222\u667A\u80FD\\\u9879\u76EE\\\u66F2\u9756\\10-\u539F\u673A\u6570\u636E\u91C7\u96C6-\u975E\u6807\u534F\u8BAE\\ys.yuanji.mqtt\\mqttcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDBC01F9-F4B3-45C2-A268-D5DDF82C7868}|..\\Yuanji.Manage\\Yuanji.Manage.csproj|d:\\\u8FDC\u8222\u667A\u80FD\\\u9879\u76EE\\\u66F2\u9756\\10-\u539F\u673A\u6570\u636E\u91C7\u96C6-\u975E\u6807\u534F\u8BAE\\yuanji.manage\\starupsevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD48EF85-72CB-4800-8F77-43496E9E5687}|..\\YS.Yuanji.Drive\\YS.Yuanji.Drive.csproj|d:\\\u8FDC\u8222\u667A\u80FD\\\u9879\u76EE\\\u66F2\u9756\\10-\u539F\u673A\u6570\u636E\u91C7\u96C6-\u975E\u6807\u534F\u8BAE\\ys.yuanji.drive\\datacollectcontoller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B303DF8-99F1-4EF8-A9BC-2C4D714D7442}|..\\YS.PLC.BeckHoff\\YS.PLC.BeckHoff.csproj|d:\\\u8FDC\u8222\u667A\u80FD\\\u9879\u76EE\\\u66F2\u9756\\10-\u539F\u673A\u6570\u636E\u91C7\u96C6-\u975E\u6807\u534F\u8BAE\\ys.plc.beckhoff\\jgdkadscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23ED4DE2-6F76-43F9-BF15-075FC6A8C9DB}|..\\YS.Yuanji.Start\\YS.Yuanji.Start.csproj|d:\\\u8FDC\u8222\u667A\u80FD\\\u9879\u76EE\\\u66F2\u9756\\10-\u539F\u673A\u6570\u636E\u91C7\u96C6-\u975E\u6807\u534F\u8BAE\\ys.yuanji.start\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D42961C-11D3-9953-70C3-23E54150FEC6}|..\\Yuanji.core\\Yuanji.core.csproj|d:\\\u8FDC\u8222\u667A\u80FD\\\u9879\u76EE\\\u66F2\u9756\\10-\u539F\u673A\u6570\u636E\u91C7\u96C6-\u975E\u6807\u534F\u8BAE\\yuanji.core\\src\\driver\\huani\\controller\\visucommuniaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23ED4DE2-6F76-43F9-BF15-075FC6A8C9DB}|..\\YS.Yuanji.Start\\YS.Yuanji.Start.csproj|d:\\\u8FDC\u8222\u667A\u80FD\\\u9879\u76EE\\\u66F2\u9756\\10-\u539F\u673A\u6570\u636E\u91C7\u96C6-\u975E\u6807\u534F\u8BAE\\ys.yuanji.start\\basicconfig.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34F2F3CA-59C1-47CC-9D79-E97B06292985}|..\\YS.ShareFile.Picture\\YS.ShareFile.Picture.csproj|d:\\\u8FDC\u8222\u667A\u80FD\\\u9879\u76EE\\\u66F2\u9756\\10-\u539F\u673A\u6570\u636E\u91C7\u96C6-\u975E\u6807\u534F\u8BAE\\ys.sharefile.picture\\picturecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "QjpackController.cs",
+              "DocumentMoniker": "D:\\\u8FDC\u8222\u667A\u80FD\\\u9879\u76EE\\\u66F2\u9756\\10-\u539F\u673A\u6570\u636E\u91C7\u96C6-\u975E\u6807\u534F\u8BAE\\YS.DataBase.Oracle\\QjpackController.cs",
+              "RelativeDocumentMoniker": "..\\YS.DataBase.Oracle\\QjpackController.cs",
+              "ToolTip": "D:\\\u8FDC\u8222\u667A\u80FD\\\u9879\u76EE\\\u66F2\u9756\\10-\u539F\u673A\u6570\u636E\u91C7\u96C6-\u975E\u6807\u534F\u8BAE\\YS.DataBase.Oracle\\QjpackController.cs",
+              "RelativeToolTip": "..\\YS.DataBase.Oracle\\QjpackController.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAiwEAAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-10T01:32:15.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StarupSevice.cs",
+              "DocumentMoniker": "D:\\\u8FDC\u8222\u667A\u80FD\\\u9879\u76EE\\\u66F2\u9756\\10-\u539F\u673A\u6570\u636E\u91C7\u96C6-\u975E\u6807\u534F\u8BAE\\Yuanji.Manage\\StarupSevice.cs",
+              "RelativeDocumentMoniker": "..\\Yuanji.Manage\\StarupSevice.cs",
+              "ToolTip": "D:\\\u8FDC\u8222\u667A\u80FD\\\u9879\u76EE\\\u66F2\u9756\\10-\u539F\u673A\u6570\u636E\u91C7\u96C6-\u975E\u6807\u534F\u8BAE\\Yuanji.Manage\\StarupSevice.cs",
+              "RelativeToolTip": "..\\Yuanji.Manage\\StarupSevice.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAowB8AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-09T08:40:32.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MqttController.cs",
+              "DocumentMoniker": "D:\\\u8FDC\u8222\u667A\u80FD\\\u9879\u76EE\\\u66F2\u9756\\10-\u539F\u673A\u6570\u636E\u91C7\u96C6-\u975E\u6807\u534F\u8BAE\\YS.Yuanji.Mqtt\\MqttController.cs",
+              "RelativeDocumentMoniker": "..\\YS.Yuanji.Mqtt\\MqttController.cs",
+              "ToolTip": "D:\\\u8FDC\u8222\u667A\u80FD\\\u9879\u76EE\\\u66F2\u9756\\10-\u539F\u673A\u6570\u636E\u91C7\u96C6-\u975E\u6807\u534F\u8BAE\\YS.Yuanji.Mqtt\\MqttController.cs",
+              "RelativeToolTip": "..\\YS.Yuanji.Mqtt\\MqttController.cs",
+              "ViewState": "AgIAAKMAAAAAAAAAAAAuwO0AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-18T01:57:23.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DataCollectContoller.cs",
+              "DocumentMoniker": "D:\\\u8FDC\u8222\u667A\u80FD\\\u9879\u76EE\\\u66F2\u9756\\10-\u539F\u673A\u6570\u636E\u91C7\u96C6-\u975E\u6807\u534F\u8BAE\\YS.Yuanji.Drive\\DataCollectContoller.cs",
+              "RelativeDocumentMoniker": "..\\YS.Yuanji.Drive\\DataCollectContoller.cs",
+              "ToolTip": "D:\\\u8FDC\u8222\u667A\u80FD\\\u9879\u76EE\\\u66F2\u9756\\10-\u539F\u673A\u6570\u636E\u91C7\u96C6-\u975E\u6807\u534F\u8BAE\\YS.Yuanji.Drive\\DataCollectContoller.cs",
+              "RelativeToolTip": "..\\YS.Yuanji.Drive\\DataCollectContoller.cs",
+              "ViewState": "AgIAANkBAAAAAAAAAAAgwOwBAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-15T07:39:38.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "basicconfig.json",
+              "DocumentMoniker": "D:\\\u8FDC\u8222\u667A\u80FD\\\u9879\u76EE\\\u66F2\u9756\\10-\u539F\u673A\u6570\u636E\u91C7\u96C6-\u975E\u6807\u534F\u8BAE\\YS.Yuanji.Start\\basicconfig.json",
+              "RelativeDocumentMoniker": "..\\YS.Yuanji.Start\\basicconfig.json",
+              "ToolTip": "D:\\\u8FDC\u8222\u667A\u80FD\\\u9879\u76EE\\\u66F2\u9756\\10-\u539F\u673A\u6570\u636E\u91C7\u96C6-\u975E\u6807\u534F\u8BAE\\YS.Yuanji.Start\\basicconfig.json",
+              "RelativeToolTip": "..\\YS.Yuanji.Start\\basicconfig.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-17T01:27:34.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "JgdkAdsController.cs",
+              "DocumentMoniker": "D:\\\u8FDC\u8222\u667A\u80FD\\\u9879\u76EE\\\u66F2\u9756\\10-\u539F\u673A\u6570\u636E\u91C7\u96C6-\u975E\u6807\u534F\u8BAE\\YS.PLC.BeckHoff\\JgdkAdsController.cs",
+              "RelativeDocumentMoniker": "..\\YS.PLC.BeckHoff\\JgdkAdsController.cs",
+              "ToolTip": "D:\\\u8FDC\u8222\u667A\u80FD\\\u9879\u76EE\\\u66F2\u9756\\10-\u539F\u673A\u6570\u636E\u91C7\u96C6-\u975E\u6807\u534F\u8BAE\\YS.PLC.BeckHoff\\JgdkAdsController.cs",
+              "RelativeToolTip": "..\\YS.PLC.BeckHoff\\JgdkAdsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-15T07:48:19.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u8FDC\u8222\u667A\u80FD\\\u9879\u76EE\\\u66F2\u9756\\10-\u539F\u673A\u6570\u636E\u91C7\u96C6-\u975E\u6807\u534F\u8BAE\\YS.Yuanji.Start\\Program.cs",
+              "RelativeDocumentMoniker": "..\\YS.Yuanji.Start\\Program.cs",
+              "ToolTip": "D:\\\u8FDC\u8222\u667A\u80FD\\\u9879\u76EE\\\u66F2\u9756\\10-\u539F\u673A\u6570\u636E\u91C7\u96C6-\u975E\u6807\u534F\u8BAE\\YS.Yuanji.Start\\Program.cs",
+              "RelativeToolTip": "..\\YS.Yuanji.Start\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-26T00:54:17.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "VisuCommuniaction.cs",
+              "DocumentMoniker": "D:\\\u8FDC\u8222\u667A\u80FD\\\u9879\u76EE\\\u66F2\u9756\\10-\u539F\u673A\u6570\u636E\u91C7\u96C6-\u975E\u6807\u534F\u8BAE\\Yuanji.core\\src\\Driver\\Huani\\Controller\\VisuCommuniaction.cs",
+              "RelativeDocumentMoniker": "..\\Yuanji.core\\src\\Driver\\Huani\\Controller\\VisuCommuniaction.cs",
+              "ToolTip": "D:\\\u8FDC\u8222\u667A\u80FD\\\u9879\u76EE\\\u66F2\u9756\\10-\u539F\u673A\u6570\u636E\u91C7\u96C6-\u975E\u6807\u534F\u8BAE\\Yuanji.core\\src\\Driver\\Huani\\Controller\\VisuCommuniaction.cs",
+              "RelativeToolTip": "..\\Yuanji.core\\src\\Driver\\Huani\\Controller\\VisuCommuniaction.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAMwHAAAABlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-01T03:08:46.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PictureController.cs",
+              "DocumentMoniker": "D:\\\u8FDC\u8222\u667A\u80FD\\\u9879\u76EE\\\u66F2\u9756\\10-\u539F\u673A\u6570\u636E\u91C7\u96C6-\u975E\u6807\u534F\u8BAE\\YS.ShareFile.Picture\\PictureController.cs",
+              "RelativeDocumentMoniker": "..\\YS.ShareFile.Picture\\PictureController.cs",
+              "ToolTip": "D:\\\u8FDC\u8222\u667A\u80FD\\\u9879\u76EE\\\u66F2\u9756\\10-\u539F\u673A\u6570\u636E\u91C7\u96C6-\u975E\u6807\u534F\u8BAE\\YS.ShareFile.Picture\\PictureController.cs",
+              "RelativeToolTip": "..\\YS.ShareFile.Picture\\PictureController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-09T09:31:21.636Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

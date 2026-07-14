@@ -1,0 +1,25 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <OutputType>Library</OutputType>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="log4net" Version="3.0.3" />
+    <PackageReference Include="Microsoft.Extensions.Hosting.Abstractions" Version="9.0.0" />
+    <PackageReference Include="MQTTnet" Version="4.3.7.1207" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+    <PackageReference Include="StackExchange.Redis" Version="2.8.22" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\YS.Yuanji.Commom\YS.Yuanji.Commom.csproj" />
+    <ProjectReference Include="..\YS.Yuanji.Drive\YS.Yuanji.Drive.csproj" />
+    <ProjectReference Include="..\YS.Yuanji.Log\YS.Yuanji.Log.csproj" />
+    <ProjectReference Include="..\YS.Yuanji.Mqtt\YS.Yuanji.Mqtt.csproj" />
+  </ItemGroup>
+
+</Project>

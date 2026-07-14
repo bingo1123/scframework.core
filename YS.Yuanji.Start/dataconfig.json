@@ -1,0 +1,217 @@
+{
+  "Params": {
+    "JJ_T12": [
+      {
+        "Key": "product",
+        "Enabled": true,
+        "Interval": 5000
+      },
+      {
+        "Key": "realtime",
+        "Enabled": true,
+        "Interval": 1000
+      },
+      {
+        "Key": "others",
+        "Enabled": true,
+        "Interval": 5000
+      }
+    ],
+    "BZ_T12.M700": [
+      {
+        "Key": "product",
+        "Enabled": true,
+        "Interval": 5000
+      },
+      {
+        "Key": "realtime",
+        "Enabled": true,
+        "Interval": 5000
+      },
+      {
+        "Key": "others",
+        "Enabled": true,
+        "Interval": 5000
+      }
+    ],
+    "JJ_T15": [
+      {
+        "Key": "product",
+        "Enabled": true,
+        "Interval": 5000
+      },
+      {
+        "Key": "realtime",
+        "Enabled": true,
+        "Interval": 1000
+      },
+      {
+        "Key": "others",
+        "Enabled": true,
+        "Interval": 5000
+      }
+    ],
+    "BZ_T15.M703": [
+      {
+        "Key": "product",
+        "Enabled": true,
+        "Interval": 5000
+      },
+      {
+        "Key": "realtime",
+        "Enabled": true,
+        "Interval": 5000
+      },
+      {
+        "Key": "others",
+        "Enabled": true,
+        "Interval": 5000
+      }
+    ],
+    "BZ_T15.M753": [
+      {
+        "Key": "product",
+        "Enabled": true,
+        "Interval": 5000
+      },
+      {
+        "Key": "realtime",
+        "Enabled": true,
+        "Interval": 5000
+      },
+      {
+        "Key": "others",
+        "Enabled": true,
+        "Interval": 5000
+      }
+    ],
+    "BZ_T15.M779": [
+      {
+        "Key": "product",
+        "Enabled": true,
+        "Interval": 5000
+      },
+      {
+        "Key": "realtime",
+        "Enabled": true,
+        "Interval": 5000
+      },
+      {
+        "Key": "others",
+        "Enabled": true,
+        "Interval": 5000
+      }
+    ],
+    "JGDK_T8": [
+      {
+        "Key": "realtime",
+        "Enabled": true,
+        "Interval": 5000,
+        "Extended": "address.txt"
+      }
+    ],
+    "BZ_SGY01.YB55": [
+      {
+        "Key": "realtime",
+        "Enabled": true,
+        "Interval": 5000,
+        "Extended": "YB55.txt"
+      }
+    ],
+    "BZ_SGY01.YB95": [
+      {
+        "Key": "realtime",
+        "Enabled": true,
+        "Interval": 5000,
+        "Extended": "YB95.txt"
+      }
+    ],
+    "BZ_SGY01.315": [
+      {
+        "Key": "realtime",
+        "Enabled": true,
+        "Interval": 5000,
+        "Extended": "315.txt"
+      }
+    ],
+    "BZ_SGY01.316": [
+      {
+        "Key": "realtime",
+        "Enabled": true,
+        "Interval": 5000,
+        "Extended": "316.txt"
+      }
+    ],
+    "BZ_SGY01.621E": [
+      {
+        "Key": "realtime",
+        "Enabled": true,
+        "Interval": 5000,
+        "Extended": "621E.txt"
+      }
+    ],
+    "BZ_T3_PIC": [
+      {
+        "Key": "realtime",
+        "Enabled": true,
+        "Interval": 30000
+      }
+    ],
+    "JJ_T8": [
+      {
+        "Key": "realtime",
+        "Enabled": true,
+        "Interval": 5000,
+        "Extended": "Jgdk.txt"
+      }
+    ],
+    "JJ_T6.jgdk": [
+      {
+        "Key": "realtime",
+        "Enabled": true,
+        "Interval": 5000,
+        "Extended": "Jgdk_m.txt"
+      }
+    ],
+    "test.jgdk": [
+      {
+        "Key": "realtime",
+        "Enabled": true,
+        "Interval": 5000,
+        "Extended": "Jgdk_m.txt"
+      }
+    ],
+    "JJ_T3.dkj": [
+      {
+        "Key": "realtime",
+        "Enabled": true,
+        "Interval": 5000,
+        "Extended": "dkj.txt"
+      }
+    ],
+    "JJ_T15.dkj": [
+      {
+        "Key": "realtime",
+        "Enabled": true,
+        "Interval": 5000,
+        "Extended": "dkj.txt"
+      }
+    ],
+    "JJ_T14.dkj": [
+      {
+        "Key": "realtime",
+        "Enabled": true,
+        "Interval": 3000,
+        "Extended": "dkj.txt"
+      }
+    ],
+    "modbus": [
+      {
+        "Key": "realtime",
+        "Enabled": true,
+        "Interval": 5000,
+        "Extended": "modbus.txt"
+      }
+    ]
+  }
+}

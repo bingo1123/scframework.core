@@ -1,0 +1,486 @@
+{
+  "DeviceConfig": [
+    {
+      "Ip": "10.97.104.28",
+      "MachineCode": "JJ_T12",
+      "MachineName": "T12#卷接机",
+      "MachinePart": "",
+      "MachineType": "ZJ118",
+      "ChanleType": "Visu",
+      "IsEnable": false,
+      "ParameterDict": {
+      },
+      "Port": 1200
+    },
+    {
+      "Ip": "169.254.57.11",
+      "MachineCode": "BZ_T12",
+      "MachineName": "T12#包装机",
+      "MachinePart": "M700",
+      "MachineType": "FxsZB48",
+      "ChanleType": "Fxs",
+      "IsEnable": false,
+      "ParameterDict": {
+      },
+      "Port": 2000
+    },
+    {
+      "Ip": "User Id=micro3;Password=micro3;Data Source=169.254.57.12:1521/GDORACLEXDB;",
+      "MachineCode": "BZ_T12",
+      "MachineName": "T12#包装机",
+      "MachinePart": "CH/CT",
+      "MachineType": "Qjpack",
+      "ChanleType": "Qjpack",
+      "IsEnable": false,
+      "ParameterDict": {
+      },
+      "Port": 2000
+    },
+    {
+      "Ip": "10.97.104.182",
+      "MachineCode": "JJ_T16",
+      "MachineName": "16#卷接机",
+      "MachinePart": "",
+      "MachineType": "ZJ118",
+      "ChanleType": "Visu",
+      "IsEnable": false,
+      "ParameterDict": {
+      },
+      "Port": 1200
+    },
+    {
+      "Ip": "10.97.104.32",
+      "MachineCode": "JJ_T3",
+      "MachineName": "T3#卷接机",
+      "MachinePart": "",
+      "MachineType": "ZJ116A",
+      "ChanleType": "Visu",
+      "IsEnable": true,
+      "ParameterDict": {
+        "fiterCounter": 4
+      },
+      "Port": 1200
+    },
+    {
+      "Ip": "150.150.98.3",
+      "MachineCode": "BZ_T3",
+      "MachineName": "T3#包装机",
+      "MachinePart": "M703",
+      "MachineType": "FxsZB48",
+      "ChanleType": "Fxs",
+      "IsEnable": false,
+      "ParameterDict": {
+      },
+      "Port": 2000
+    },
+    {
+      "Ip": "150.150.98.5",
+      "MachineCode": "BZ_T3",
+      "MachineName": "T3#包装机",
+      "MachinePart": "M753",
+      "MachineType": "FxsZB48",
+      "ChanleType": "Fxs",
+      "IsEnable": false,
+      "ParameterDict": {
+      },
+      "Port": 2000
+    },
+    {
+      "Ip": "150.150.98.6",
+      "MachineCode": "BZ_T3",
+      "MachineName": "T3#包装机",
+      "MachinePart": "M779",
+      "MachineType": "FxsZB48",
+      "ChanleType": "Fxs",
+      "IsEnable": false,
+      "ParameterDict": {
+      },
+      "Port": 2000
+    },
+    {
+      "Ip": "10.97.104.219",
+      "MachineCode": "JJ_T14",
+      "MachineName": "T14卷接机",
+      "MachinePart": "",
+      "MachineType": "ZJ118",
+      "ChanleType": "Visu",
+      "IsEnable": false,
+      "ParameterDict": {
+      },
+      "Port": 1200
+    },
+    {
+      "Ip": "150.150.98.5",
+      "MachineCode": "BZ_T14",
+      "MachineName": "T14#包装机",
+      "MachinePart": "M404",
+      "MachineType": "FxsZB48",
+      "ChanleType": "Fxs",
+      "IsEnable": false,
+      "ParameterDict": {
+      },
+      "Port": 2000
+    },
+    {
+      "Ip": "150.150.98.15",
+      "MachineCode": "BZ_T14",
+      "MachineName": "T14#包装机",
+      "MachinePart": "M502",
+      "MachineType": "FxsZB48",
+      "ChanleType": "Fxs",
+      "IsEnable": false,
+      "ParameterDict": {
+      },
+      "Port": 2000
+    },
+    {
+      "Ip": "150.150.98.13",
+      "MachineCode": "BZ_T14",
+      "MachineName": "T14#包装机",
+      "MachinePart": "M556",
+      "MachineType": "FxsZB48",
+      "ChanleType": "Fxs",
+      "IsEnable": false,
+      "ParameterDict": {
+      },
+      "Port": 2000
+    },
+    {
+      "Ip": "150.150.98.3",
+      "MachineCode": "BZ_T14",
+      "MachineName": "T3#包装机",
+      "MachinePart": "M993",
+      "MachineType": "FxsZB48",
+      "ChanleType": "Fxs",
+      "IsEnable": false,
+      "ParameterDict": {
+      },
+      "Port": 2000
+    },
+    {
+      "Ip": "10.97.105.12",
+      "MachineCode": "JJ_T15",
+      "MachineName": "T15#卷接机",
+      "MachinePart": "",
+      "MachineType": "ZJ116A",
+      "ChanleType": "Visu",
+      "IsEnable": false,
+      "ParameterDict": {
+      },
+      "Port": 1200
+    },
+    {
+      "Ip": "150.150.98.3",
+      "MachineCode": "BZ_T15",
+      "MachineName": "T15#包装机",
+      "MachinePart": "M703",
+      "MachineType": "FxsZB48",
+      "ChanleType": "Fxs",
+      "IsEnable": false,
+      "ParameterDict": {
+      },
+      "Port": 2000
+    },
+    {
+      "Ip": "150.150.98.5",
+      "MachineCode": "BZ_T15",
+      "MachineName": "T15#包装机",
+      "MachinePart": "M753",
+      "MachineType": "FxsZB48",
+      "ChanleType": "Fxs",
+      "IsEnable": false,
+      "ParameterDict": {
+      },
+      "Port": 2000
+    },
+    {
+      "Ip": "150.150.98.6",
+      "MachineCode": "BZ_T15",
+      "MachineName": "T15#包装机",
+      "MachinePart": "M779",
+      "MachineType": "FxsZB48",
+      "ChanleType": "Fxs",
+      "IsEnable": false,
+      "ParameterDict": {
+      },
+      "Port": 2000
+    },
+    {
+      "Ip": "10.97.104.187",
+      "MachineCode": "JJ_T6",
+      "MachineName": "T6#卷接机",
+      "MachinePart": "",
+      "MachineType": "ZJ118",
+      "ChanleType": "Visu",
+      "IsEnable": false,
+      "ParameterDict": {
+      },
+      "Port": 1200
+    },
+    {
+      "Ip": "192.168.1.1.1.1",
+      "MachineCode": "BZ_SGY01",
+      "MachineName": "SGY01#包装机",
+      "MachinePart": "YB55",
+      "MachineType": "BeckHoff",
+      "ChanleType": "BeckHoff",
+      "IsEnable": false,
+      "ParameterDict": {
+      },
+      "Port": 851
+    },
+    {
+      "Ip": "192.168.1.1.1.1",
+      "MachineCode": "BZ_SGY01",
+      "MachineName": "SGY01#包装机",
+      "MachinePart": "621F1",
+      "MachineType": "BeckHoff",
+      "ChanleType": "BeckHoff",
+      "IsEnable": false,
+      "ParameterDict": {
+      },
+      "Port": 851
+    },
+    {
+      "Ip": "192.168.1.1.1.1",
+      "MachineCode": "BZ_SGY01",
+      "MachineName": "SGY01#包装机",
+      "MachinePart": "YB95",
+      "MachineType": "BeckHoff",
+      "ChanleType": "BeckHoff",
+      "IsEnable": false,
+      "ParameterDict": {
+      },
+      "Port": 852
+    },
+    {
+      "Ip": "192.168.1.10.1.1",
+      "MachineCode": "BZ_SGY01",
+      "MachineName": "SGY01#包装机",
+      "MachinePart": "315",
+      "MachineType": "BeckHoff",
+      "ChanleType": "BeckHoff",
+      "IsEnable": false,
+      "ParameterDict": {
+      },
+      "Port": 851
+    },
+    {
+      "Ip": "192.168.1.10.1.1",
+      "MachineCode": "BZ_SGY01",
+      "MachineName": "SGY01#包装机",
+      "MachinePart": "316",
+      "MachineType": "BeckHoff",
+      "ChanleType": "BeckHoff",
+      "IsEnable": false,
+      "ParameterDict": {
+      },
+      "Port": 851
+    },
+    {
+      "Ip": "192.168.1.20.1.1",
+      "MachineCode": "BZ_SGY01",
+      "MachineName": "SGY01#包装机",
+      "MachinePart": "621E",
+      "MachineType": "BeckHoff",
+      "ChanleType": "BeckHoff",
+      "IsEnable": false,
+      "ParameterDict": {
+      },
+      "Port": 851
+    },
+    {
+      "Ip": "127.0.0.1",
+      "MachineCode": "BZ_T3_PIC",
+      "MachineName": "T3小包检测",
+      "MachinePart": "",
+      "MachineType": "Picture",
+      "ChanleType": "Picture",
+      "IsEnable": false,
+      "ParameterDict": {
+        "MinoUrl": "http://10.97.65.20:8188/realapi/wgreject/RejectPic/UpdateRejectPic",
+        "SharePath": "D:\\远舢智能\\项目\\曲靖\\外观缺陷\\小包\\2025-11-19",
+        "DeviceId": "70",
+        "FileExtends": ".tif",
+        "FiterName": "failed",
+        "TimeDate": "2025-11-19"
+      },
+      "Port": 852
+    },
+    {
+      "Ip": "192.168.137.222.1.1",
+      "MachineCode": "JJ_T8",
+      "MachineName": "T8激光打孔",
+      "MachinePart": "",
+      "MachineType": "JgdkAds",
+      "ChanleType": "Ads",
+      "IsEnable": false,
+      "ParameterDict": {
+        "DeviceId": "33",
+        "Pubtopic": ""
+      },
+      "Port": 851
+    },
+    {
+      "Ip": "192.168.137.222.1.1",
+      "MachineCode": "JJ_T9",
+      "MachineName": "T9激光打孔",
+      "MachinePart": "",
+      "MachineType": "JgdkAds",
+      "ChanleType": "Ads",
+      "IsEnable": false,
+      "ParameterDict": {
+        "DeviceId": "33",
+        "Pubtopic": ""
+      },
+      "Port": 851
+    },
+    {
+      "Ip": "192.168.137.222.1.1",
+      "MachineCode": "JJ_T7",
+      "MachineName": "T7激光打孔",
+      "MachinePart": "",
+      "MachineType": "JgdkAds",
+      "ChanleType": "Ads",
+      "IsEnable": false,
+      "ParameterDict": {
+        "DeviceId": "33",
+        "Pubtopic": ""
+      },
+      "Port": 851
+    },
+    {
+      "Ip": "192.168.137.222.1.1",
+      "MachineCode": "JJ_T16",
+      "MachineName": "T16激光打孔",
+      "MachinePart": "",
+      "MachineType": "JgdkAds",
+      "ChanleType": "Ads",
+      "IsEnable": false,
+      "ParameterDict": {
+        "DeviceId": "33",
+        "Pubtopic": ""
+      },
+      "Port": 851
+    },
+    {
+      "Ip": "127.0.0.1",
+      "MachineCode": "test",
+      "MachineName": "modbus激光打孔测试",
+      "MachinePart": "jgdk",
+      "MachineType": "ModbusTcpClient",
+      "ChanleType": "ModbusTcp",
+      "IsEnable": false,
+      "ControlWrite": true,
+      "ParameterDict": {
+        "DeviceId": "999",
+        "Pubtopic": "oda/jgdk"
+      },
+      "Port": 502
+    },
+    {
+      "Ip": "192.168.18.102",
+      "MachineCode": "JJ_T6",
+      "MachineName": "T6激光打孔",
+      "MachinePart": "Jgdk",
+      "MachineType": "ModbusTcpClient",
+      "ChanleType": "ModbusTcp",
+      "IsEnable": false,
+      "ControlWrite": false,
+      "ParameterDict": {
+        "DeviceId": "6",
+        "Pubtopic": "oda/jgdk"
+      },
+      "Port": 502
+    },
+    {
+      "Ip": "192.168.18.102",
+      "MachineCode": "JJ_T14",
+      "MachineName": "T14激光打孔",
+      "MachinePart": "jgdk",
+      "MachineType": "ModbusTcpClient",
+      "ChanleType": "ModbusTcp",
+      "IsEnable": false,
+      "ParameterDict": {
+        "DeviceId": "61",
+        "Pubtopic": "oda/jgdk"
+      },
+      "Port": 502
+    },
+    {
+      "Ip": "192.168.18.100",
+      "MachineCode": "JJ_T3",
+      "MachineName": "T3#搭扣胶",
+      "MachinePart": "dkj",
+      "MachineType": "ModbusTcpClient",
+      "ChanleType": "ModbusTcp",
+      "IsEnable": false,
+      "ParameterDict": {
+        "DeviceId": "56",
+        "Pubtopic": "oda/dkj"
+      },
+      "Port": 502
+    },
+    {
+      "Ip": "192.168.18.100",
+      "MachineCode": "JJ_T15",
+      "MachineName": "T15#搭扣胶",
+      "MachinePart": "dkj",
+      "MachineType": "ModbusTcpClient",
+      "ChanleType": "ModbusTcp",
+      "IsEnable": false,
+      "ParameterDict": {
+        "DeviceId": "41",
+        "Pubtopic": "oda/dkj"
+      },
+      "Port": 502
+    },
+    {
+      "Ip": "127.0.0.1",
+      "MachineCode": "JJ_T14",
+      "MachineName": "T14#搭扣胶",
+      "MachinePart": "dkj",
+      "MachineType": "ModbusTcpClient",
+      "ChanleType": "ModbusTcp",
+      "IsEnable": false,
+      "ParameterDict": {
+        "DeviceId": "60",
+        "Pubtopic": "oda/dkj"
+      },
+      "Port": 502
+    },
+    {
+      "Ip": "192.168.18.100",
+      "MachineCode": "JJ_T10",
+      "MachineName": "T10#搭扣胶",
+      "MachinePart": "dkj",
+      "MachineType": "ModbusTcpClient",
+      "ChanleType": "ModbusTcp",
+      "IsEnable": false,
+      "ParameterDict": {
+        "DeviceId": "57",
+        "Pubtopic": "oda/dkj"
+      },
+      "Port": 502
+    },
+    {
+      "Ip": "127.0.0.1",
+      "MachineCode": "modbus",
+      "MachineName": "modbus tcp server",
+      "MachinePart": "",
+      "MachineType": "ModbusServer",
+      "ChanleType": "ModbusServer",
+      "IsEnable": false,
+      "ParameterDict": {
+        "DeviceName": "88"
+      },
+      "Port": 502
+    }
+  ],
+  "MqttConfig": {
+    "UserName": "fine",
+    "Password": "123456",
+    "Host": "10.97.65.20",
+    "Port": 1883
+  }
+}
